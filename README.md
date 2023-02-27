@@ -24,8 +24,7 @@ TODO
 Update the API to handle user authentication and transaction requests.
 Refactor the code to use React Router for navigation.
 Add additional features (e.g. account statements, user profile page, etc.)
-License
-This project is licensed under the Prince E License - see the LICENSE.md file for details.
+
 
 
 
